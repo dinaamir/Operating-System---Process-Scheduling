@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Operating-System---Process-Scheduling
 
 -- Simulations of CPU Scheduling Algorithms --
+=======
+# Operating-System---Simulations of CPU Scheduling Algorithms
+
+SIMUL
+>>>>>>> 4e75a381b3f67bb7bcf3fd02b0ff1ee65b406ef9
 
 5 types of process scheduling algorithms will be used in this code are..
     1. Round Robin (Quantum = 3) -> works okay
